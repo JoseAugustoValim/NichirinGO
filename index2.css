@@ -1,0 +1,23 @@
+:root { 
+  --branco-fundo: #ffff;
+  --cinza-fundo: #f2f2f2;
+  --preto-letras: #000000;
+}
+
+body {
+  margin: 0 auto;
+}
+
+img{
+  margin: 0 auto;
+}
+
+.menu{
+display: flex;
+}
+
+.conteudo{
+  display: flex;
+  justify-content: center;
+  width: 100vh;
+}
